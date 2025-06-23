@@ -6,3 +6,5 @@ Setting up sample python project with uv
 3. cd agents
 4. uv sync --native-tls
 5. uv tool install crewai
+6. uv tool update-shell or export PATH="/root/.local/bin:$PATH"
+7. 
