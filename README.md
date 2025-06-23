@@ -5,4 +5,4 @@ Setting up sample python project with uv
 2. git clone https://github.com/ed-donner/agents.git
 3. cd agents
 4. uv sync --native-tls
-5. 
+5. uv tool install crewai
